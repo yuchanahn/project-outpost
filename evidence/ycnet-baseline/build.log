@@ -1,0 +1,49 @@
+msbuild 버전 17.11.2+c078802d4(.NET Framework용)
+
+  1>Checking Build System
+  Building Custom Rule C:/YuChan/DX11_3D_AgenticDevelopment/external/ycnet-rio-rudp/CMakeLists.txt
+  ack_loss_tests.cpp
+  Building Custom Rule C:/YuChan/DX11_3D_AgenticDevelopment/external/ycnet-rio-rudp/CMakeLists.txt
+  Building Custom Rule C:/YuChan/DX11_3D_AgenticDevelopment/external/ycnet-rio-rudp/CMakeLists.txt
+  Building Custom Rule C:/YuChan/DX11_3D_AgenticDevelopment/external/ycnet-rio-rudp/CMakeLists.txt
+  Building Custom Rule C:/YuChan/DX11_3D_AgenticDevelopment/external/ycnet-rio-rudp/CMakeLists.txt
+  Building Custom Rule C:/YuChan/DX11_3D_AgenticDevelopment/external/ycnet-rio-rudp/CMakeLists.txt
+  Building Custom Rule C:/YuChan/DX11_3D_AgenticDevelopment/external/ycnet-rio-rudp/CMakeLists.txt
+  Building Custom Rule C:/YuChan/DX11_3D_AgenticDevelopment/external/ycnet-rio-rudp/CMakeLists.txt
+  Building Custom Rule C:/YuChan/DX11_3D_AgenticDevelopment/external/ycnet-rio-rudp/CMakeLists.txt
+  Building Custom Rule C:/YuChan/DX11_3D_AgenticDevelopment/external/ycnet-rio-rudp/CMakeLists.txt
+  Building Custom Rule C:/YuChan/DX11_3D_AgenticDevelopment/external/ycnet-rio-rudp/CMakeLists.txt
+  Building Custom Rule C:/YuChan/DX11_3D_AgenticDevelopment/external/ycnet-rio-rudp/CMakeLists.txt
+  Building Custom Rule C:/YuChan/DX11_3D_AgenticDevelopment/external/ycnet-rio-rudp/CMakeLists.txt
+  Building Custom Rule C:/YuChan/DX11_3D_AgenticDevelopment/external/ycnet-rio-rudp/CMakeLists.txt
+  Building Custom Rule C:/YuChan/DX11_3D_AgenticDevelopment/external/ycnet-rio-rudp/CMakeLists.txt
+  metrics_tests.cpp
+  network_loss_tests.cpp
+  rio_timeout_reuse_smoke.cpp
+  send_window_tests.cpp
+  rio_smoke.cpp
+  rio_capacity_smoke.cpp
+  reliability_policy_tests.cpp
+  rudp_tests.cpp
+  benchmark_tests.cpp
+  rio_multi_client_smoke.cpp
+  unreliable_tests.cpp
+  loss_benchmark_main.cpp
+  sequence_reuse_tests.cpp
+  rio_ack_loss_smoke.cpp
+  rudp_tests.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\ycnet-rio-rudp\Release\rudp_tests.exe
+  ack_loss_tests.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\ycnet-rio-rudp\Release\ack_loss_tests.exe
+  unreliable_tests.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\ycnet-rio-rudp\Release\unreliable_tests.exe
+  metrics_tests.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\ycnet-rio-rudp\Release\metrics_tests.exe
+  send_window_tests.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\ycnet-rio-rudp\Release\send_window_tests.exe
+  rio_timeout_reuse_smoke.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\ycnet-rio-rudp\Release\rio_timeout_reuse_smoke.exe
+  network_loss_tests.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\ycnet-rio-rudp\Release\network_loss_tests.exe
+  sequence_reuse_tests.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\ycnet-rio-rudp\Release\sequence_reuse_tests.exe
+  benchmark_tests.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\ycnet-rio-rudp\Release\benchmark_tests.exe
+  loss_benchmark.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\ycnet-rio-rudp\Release\loss_benchmark.exe
+  reliability_policy_tests.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\ycnet-rio-rudp\Release\reliability_policy_tests.exe
+  rio_smoke.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\ycnet-rio-rudp\Release\rio_smoke.exe
+  rio_multi_client_smoke.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\ycnet-rio-rudp\Release\rio_multi_client_smoke.exe
+  rio_capacity_smoke.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\ycnet-rio-rudp\Release\rio_capacity_smoke.exe
+  rio_ack_loss_smoke.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\ycnet-rio-rudp\Release\rio_ack_loss_smoke.exe
+  Building Custom Rule C:/YuChan/DX11_3D_AgenticDevelopment/external/ycnet-rio-rudp/CMakeLists.txt

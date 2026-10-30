@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "C:\YuChan\DX11_3D_AgenticDevelopment\tools\fault-relay.py", line 34, in <module>
+    data, source = key.fileobj.recvfrom(65535)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] 현재 연결은 원격 호스트에 의해 강제로 끊겼습니다

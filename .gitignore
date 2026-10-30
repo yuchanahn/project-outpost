@@ -1,0 +1,17 @@
+/out/
+/external/
+/evidence/demo/frames/
+/evidence/demo/*/frames/
+*.bmp
+__pycache__/
+/project/source/
+/project/questions.md
+/project/decisions.md
+/project/tracks/G0-DISCOVERY/
+/project/tracks/NET-CONTRACT-001/
+/project/tracks/G2-CONTRACTS/
+/evidence/discovery/
+/evidence/network-contract/
+/harness/network-contract/
+/evidence/integration/*pid*
+/evidence/integration/visual*

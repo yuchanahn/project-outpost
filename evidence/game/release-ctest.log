@@ -1,0 +1,19 @@
+Start testing: Oct 29 23:09 대한민국 표준시
+----------------------------------------------------------
+1/1 Testing: game.match_lifecycle
+1/1 Test: game.match_lifecycle
+Command: "C:/YuChan/DX11_3D_AgenticDevelopment/out/game/Release/match_tests.exe"
+Directory: C:/YuChan/DX11_3D_AgenticDevelopment/out/game
+"game.match_lifecycle" start time: Oct 29 23:09 대한민국 표준시
+Output:
+----------------------------------------------------------
+Match lifecycle checks passed
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"game.match_lifecycle" end time: Oct 29 23:09 대한민국 표준시
+"game.match_lifecycle" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 29 23:09 대한민국 표준시

@@ -1,0 +1,2 @@
+ADAPTER Intel(R) UHD Graphics vendor=32902 device=39520
+RENDER mode=instanced width=1280 height=720 samples=500 draws=1 cpu_p50_ms=0.0046 cpu_p95_ms=0.0083 gpu_p50_ms=0.136458 gpu_p95_ms=0.1525 gpu_invalid=0

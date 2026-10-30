@@ -1,0 +1,1 @@
+CLIENT clients=8 window=8 sent=7691 echoes=7691 duplicates=0 p50_ms=46.0622 p95_ms=47.5957 p99_ms=48.3463 pending_max=8 retries=14 cpu_s=0.234375 active_s=5 payload_bytes=64

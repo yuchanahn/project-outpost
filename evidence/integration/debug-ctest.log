@@ -1,0 +1,10 @@
+Internal ctest changing into directory: C:/YuChan/DX11_3D_AgenticDevelopment/out/game
+Test project C:/YuChan/DX11_3D_AgenticDevelopment/out/game
+    Start 1: game.match_lifecycle
+1/2 Test #1: game.match_lifecycle .............   Passed    0.02 sec
+    Start 2: game.world_and_wire
+2/2 Test #2: game.world_and_wire ..............   Passed    0.02 sec
+
+100% tests passed, 0 tests failed out of 2
+
+Total Test time (real) =   0.04 sec

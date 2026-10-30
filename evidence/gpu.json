@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Parsec Virtual Display Adapter",
+    "DriverVersion": "0.45.0.0"
+  },
+  {
+    "Name": "Intel(R) UHD Graphics",
+    "DriverVersion": "32.0.101.7082"
+  },
+  {
+    "Name": "NVIDIA GeForce RTX 3080 Laptop GPU",
+    "DriverVersion": "32.0.16.1088"
+  }
+]

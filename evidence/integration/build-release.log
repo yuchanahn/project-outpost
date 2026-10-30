@@ -1,0 +1,34 @@
+msbuild 버전 17.11.2+c078802d4(.NET Framework용)
+
+  outpost_game.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\game\Release\outpost_game.lib
+  match_tests.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\game\Release\match_tests.exe
+  net_lifecycle.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\game\Release\net_lifecycle.exe
+  outpost_client.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\game\Release\outpost_client.exe
+  net_bench.cpp
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(226,32): warning C4459: 'is_used' 선언은 전역 선언을 숨깁니다. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_net_bench.vcxproj]
+  (소스 파일 '../../apps/net_bench.cpp'을(를) 컴파일하는 중)
+      C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(115,13):
+      'ycnet::rio::is_used' 선언을 참조하십시오.
+  
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(262,30): warning C4459: 'is_used' 선언은 전역 선언을 숨깁니다. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_net_bench.vcxproj]
+  (소스 파일 '../../apps/net_bench.cpp'을(를) 컴파일하는 중)
+      C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(115,13):
+      'ycnet::rio::is_used' 선언을 참조하십시오.
+  
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(178,14): warning C4996: 'WSASocketA': Use WSASocketW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_net_bench.vcxproj]
+  (소스 파일 '../../apps/net_bench.cpp'을(를) 컴파일하는 중)
+  
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rudp.hpp(314,20): warning C4100: 'rto': 참조되지 않은 정식 매개 변수입니다. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_net_bench.vcxproj]
+  (소스 파일 '../../apps/net_bench.cpp'을(를) 컴파일하는 중)
+  
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\ycnet.hpp(276,15): warning C4456: 'seq' 선언은 이전 로컬 선언을 숨깁니다. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_net_bench.vcxproj]
+  (소스 파일 '../../apps/net_bench.cpp'을(를) 컴파일하는 중)
+      C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\ycnet.hpp(262,16):
+      'seq' 선언을 참조하십시오.
+  
+C:\YuChan\DX11_3D_AgenticDevelopment\apps\net_bench.cpp(111,35): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_net_bench.vcxproj]
+  outpost_net_bench.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\game\Release\outpost_net_bench.exe
+  outpost_probe.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\game\Release\outpost_probe.exe
+  outpost_render_bench.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\game\Release\outpost_render_bench.exe
+  outpost_server.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\game\Release\outpost_server.exe
+  world_tests.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\game\Release\world_tests.exe

@@ -1,0 +1,101 @@
+msbuild 버전 17.11.2+c078802d4(.NET Framework용)
+
+  outpost_game.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\game\Debug\outpost_game.lib
+  match_tests.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\game\Debug\match_tests.exe
+  net_lifecycle.cpp
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\net_lifecycle.vcxproj]
+  (소스 파일 '../../tests/net_lifecycle.cpp'을(를) 컴파일하는 중)
+  
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rudp.hpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\net_lifecycle.vcxproj]
+  (소스 파일 '../../tests/net_lifecycle.cpp'을(를) 컴파일하는 중)
+  
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\mpsc_buffer.hpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\net_lifecycle.vcxproj]
+  (소스 파일 '../../tests/net_lifecycle.cpp'을(를) 컴파일하는 중)
+  
+  net_lifecycle.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\game\Debug\net_lifecycle.exe
+  client.cpp
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(226,32): warning C4459: 'is_used' 선언은 전역 선언을 숨깁니다. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_client.vcxproj]
+  (소스 파일 '../../apps/client.cpp'을(를) 컴파일하는 중)
+      C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(115,13):
+      'ycnet::rio::is_used' 선언을 참조하십시오.
+  
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(262,30): warning C4459: 'is_used' 선언은 전역 선언을 숨깁니다. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_client.vcxproj]
+  (소스 파일 '../../apps/client.cpp'을(를) 컴파일하는 중)
+      C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(115,13):
+      'ycnet::rio::is_used' 선언을 참조하십시오.
+  
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(178,14): warning C4996: 'WSASocketA': Use WSASocketW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_client.vcxproj]
+  (소스 파일 '../../apps/client.cpp'을(를) 컴파일하는 중)
+  
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rudp.hpp(314,20): warning C4100: 'rto': 참조되지 않은 정식 매개 변수입니다. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_client.vcxproj]
+  (소스 파일 '../../apps/client.cpp'을(를) 컴파일하는 중)
+  
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\ycnet.hpp(276,15): warning C4456: 'seq' 선언은 이전 로컬 선언을 숨깁니다. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_client.vcxproj]
+  (소스 파일 '../../apps/client.cpp'을(를) 컴파일하는 중)
+      C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\ycnet.hpp(262,16):
+      'seq' 선언을 참조하십시오.
+  
+  renderer.cpp
+C:\YuChan\DX11_3D_AgenticDevelopment\src\render\renderer.cpp(250,31): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_client.vcxproj]
+C:\YuChan\DX11_3D_AgenticDevelopment\src\render\renderer.cpp(252,68): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_client.vcxproj]
+C:\YuChan\DX11_3D_AgenticDevelopment\src\render\renderer.cpp(281,61): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_client.vcxproj]
+  코드를 생성하고 있습니다...
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(138,1): warning C4702: 접근할 수 없는 코드입니다. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_client.vcxproj]
+  outpost_client.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\game\Debug\outpost_client.exe
+  Building Custom Rule C:/YuChan/DX11_3D_AgenticDevelopment/CMakeLists.txt
+  net_bench.cpp
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(226,32): warning C4459: 'is_used' 선언은 전역 선언을 숨깁니다. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_net_bench.vcxproj]
+  (소스 파일 '../../apps/net_bench.cpp'을(를) 컴파일하는 중)
+      C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(115,13):
+      'ycnet::rio::is_used' 선언을 참조하십시오.
+  
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(262,30): warning C4459: 'is_used' 선언은 전역 선언을 숨깁니다. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_net_bench.vcxproj]
+  (소스 파일 '../../apps/net_bench.cpp'을(를) 컴파일하는 중)
+      C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(115,13):
+      'ycnet::rio::is_used' 선언을 참조하십시오.
+  
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(178,14): warning C4996: 'WSASocketA': Use WSASocketW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_net_bench.vcxproj]
+  (소스 파일 '../../apps/net_bench.cpp'을(를) 컴파일하는 중)
+  
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rudp.hpp(314,20): warning C4100: 'rto': 참조되지 않은 정식 매개 변수입니다. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_net_bench.vcxproj]
+  (소스 파일 '../../apps/net_bench.cpp'을(를) 컴파일하는 중)
+  
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\ycnet.hpp(276,15): warning C4456: 'seq' 선언은 이전 로컬 선언을 숨깁니다. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_net_bench.vcxproj]
+  (소스 파일 '../../apps/net_bench.cpp'을(를) 컴파일하는 중)
+      C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\ycnet.hpp(262,16):
+      'seq' 선언을 참조하십시오.
+  
+C:\YuChan\DX11_3D_AgenticDevelopment\apps\net_bench.cpp(99,35): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_net_bench.vcxproj]
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(138,1): warning C4702: 접근할 수 없는 코드입니다. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_net_bench.vcxproj]
+  outpost_net_bench.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\game\Debug\outpost_net_bench.exe
+  probe.cpp
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(226,32): warning C4459: 'is_used' 선언은 전역 선언을 숨깁니다. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_probe.vcxproj]
+  (소스 파일 '../../apps/probe.cpp'을(를) 컴파일하는 중)
+      C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(115,13):
+      'ycnet::rio::is_used' 선언을 참조하십시오.
+  
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(262,30): warning C4459: 'is_used' 선언은 전역 선언을 숨깁니다. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_probe.vcxproj]
+  (소스 파일 '../../apps/probe.cpp'을(를) 컴파일하는 중)
+      C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(115,13):
+      'ycnet::rio::is_used' 선언을 참조하십시오.
+  
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(178,14): warning C4996: 'WSASocketA': Use WSASocketW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_probe.vcxproj]
+  (소스 파일 '../../apps/probe.cpp'을(를) 컴파일하는 중)
+  
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rudp.hpp(314,20): warning C4100: 'rto': 참조되지 않은 정식 매개 변수입니다. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_probe.vcxproj]
+  (소스 파일 '../../apps/probe.cpp'을(를) 컴파일하는 중)
+  
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\ycnet.hpp(276,15): warning C4456: 'seq' 선언은 이전 로컬 선언을 숨깁니다. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_probe.vcxproj]
+  (소스 파일 '../../apps/probe.cpp'을(를) 컴파일하는 중)
+      C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\ycnet.hpp(262,16):
+      'seq' 선언을 참조하십시오.
+  
+C:\YuChan\DX11_3D_AgenticDevelopment\external\ycnet-rio-rudp\include\ycnet\rio_transport.hpp(138,1): warning C4702: 접근할 수 없는 코드입니다. [C:\YuChan\DX11_3D_AgenticDevelopment\out\game\outpost_probe.vcxproj]
+  outpost_probe.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\game\Debug\outpost_probe.exe
+  Building Custom Rule C:/YuChan/DX11_3D_AgenticDevelopment/CMakeLists.txt
+  render_bench.cpp
+  renderer.cpp
+  코드를 생성하고 있습니다...
+  outpost_render_bench.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\game\Debug\outpost_render_bench.exe
+  outpost_server.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\game\Debug\outpost_server.exe
+  world_tests.vcxproj -> C:\YuChan\DX11_3D_AgenticDevelopment\out\game\Debug\world_tests.exe

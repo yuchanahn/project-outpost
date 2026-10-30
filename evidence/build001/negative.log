@@ -1,0 +1,14 @@
+Internal ctest changing into directory: C:/YuChan/DX11_3D_AgenticDevelopment/out/toolchain-smoke
+Test project C:/YuChan/DX11_3D_AgenticDevelopment/out/toolchain-smoke
+    Start 2: build001.intentional_failure
+1/1 Test #2: build001.intentional_failure .....***Failed    0.01 sec
+INTENTIONAL_FAILURE: checking CTest failure propagation
+
+
+0% tests passed, 1 tests failed out of 1
+
+Total Test time (real) =   0.02 sec
+
+The following tests FAILED:
+	  2 - build001.intentional_failure (Failed)
+Errors while running CTest

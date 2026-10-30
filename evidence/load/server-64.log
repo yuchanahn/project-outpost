@@ -1,0 +1,3 @@
+ -- thread[1 : id-45044] exit -- 
+ -- thread[0 : id-3932] exit -- 
+SERVER clients=64 cleaned=64 delivered=9224 cpu_s=0.109375

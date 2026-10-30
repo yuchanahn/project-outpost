@@ -1,0 +1,3 @@
+SERVER_READY port=27015
+ -- thread[0 : id-67904] exit -- 
+SERVER_STOP tick=796 outcome=2

@@ -1,0 +1,2 @@
+RELAY_READY port=27016
+{"settings": {"seconds": 15.0, "seed": 42, "loss": 0.1, "duplicate": 0.05, "jitter_ms": 80}, "flows": 2, "received": 585, "dropped": 69, "duplicated": 21, "forwarded": 537, "reordered": 48, "max_queue": 10}

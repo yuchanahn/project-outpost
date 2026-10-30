@@ -72,3 +72,9 @@ Read-only Claude task f035accd-161a-4ae8-9f18-a8d013ee30de found no concrete cra
 ## Publication
 
 Owner approved MIT publication on 2026-10-30 KST. Public source repository: https://github.com/yuchanahn/project-outpost. Separate-PC LAN is explicitly untested because no second PC is available. A preview release includes a Windows x64 executable ZIP with MIT notice, build/source identification, checksums, and the hardware validation checklist. No internet/NAT or production-safety claim is made.
+
+## Public reproduction check
+
+The public source at 6c1f2ebb873a42ed06dd3e8cc803a57f97c894cf and the dependency were freshly cloned from GitHub into an empty out/reproduction checkout. The dependency was checked out to the pinned f7c734 revision. Fresh MSVC CMake configure/Release build and CTest 2/2 passed; logs are evidence/reproduction-*.log. This checks the public tree can build without the original working directory.
+
+The released Windows ZIP was downloaded again from the public release and matched the local upload byte-for-byte: SHA256 96AD6574278460480D59BF28FDCC27EB7A55AF90BDF09D56028AED9042F36706. Public release/asset metadata and verification are recorded in evidence/publication.json and evidence/release-verification.json. The asset is explicitly a preview. This final packaging check does not replace the still-unavailable second-PC LAN test.

@@ -1,5 +1,7 @@
 # Project Outpost
 
+[Windows x64 preview](https://github.com/yuchanahn/project-outpost/releases/tag/v0.1.0-preview) · [MIT license](LICENSE) · [Measurements](docs/measurements.md)
+
 Windows C++23 / DX11 cooperative drone defense prototype. A dedicated authoritative server runs four team slots, server FSM bots, two enemy types and three finite waves. Humans join in the lobby and press Enter to start. Wave completion wins; core HP zero loses. Running matches reject new joins; departed humans leave vacant slots, and the last human departure ends the match.
 
 ## Build and run
@@ -30,7 +32,7 @@ The first runs a server and two probes. The second runs four socket clients and 
 
 Debug/Release game tests, local socket integration, and two actual DX11 client processes have passed. [Evidence](project/tracks/GAME-001/evidence.md) includes commands and limitations. [Architecture](docs/architecture.md) describes ownership and wire format. The implementation uses MSVC /std:c++latest with selected feature checks; this is not a claim of complete final C++23 conformance.
 
-Remaining portfolio gates include separate-PC LAN and publication. Deeper transport saturation and internal RIO queue measurement remain follow-ups. Current results and their limits are recorded below; the full specification is not marked complete.
+Separate-PC LAN remains untested because no second PC is currently available. Source and the preview release are public under MIT. Deeper transport saturation and internal RIO queue measurement remain follow-ups. Current results and their limits are recorded below; the full specification is not marked complete.
 
 ## Measurements and demo
 
@@ -49,3 +51,4 @@ Run network scripts sequentially. Render measurements open a fixed-size window a
 
 
 LAN handoff: [second-PC checklist](docs/lan-check.md). `tools/package.ps1` produces a local ZIP under out/dist with the three game executables and per-file hashes. `tools/record-demo.ps1` reproduces the framebuffer video with the installed FFmpeg executable.
+

@@ -1,0 +1,16 @@
+{
+  "zip_sha256": "96AD6574278460480D59BF28FDCC27EB7A55AF90BDF09D56028AED9042F36706",
+  "prerelease": true,
+  "assets": [
+    {
+      "name": "outpost-demo.mp4",
+      "size": 22544
+    },
+    {
+      "name": "Outpost-Windows-x64.zip",
+      "size": 305219
+    }
+  ],
+  "release": "https://github.com/yuchanahn/project-outpost/releases/tag/v0.1.0-preview",
+  "download_hash_verified": true
+}

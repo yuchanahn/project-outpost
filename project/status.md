@@ -11,9 +11,10 @@
 | NET-002 | Original reliability tests, actual impaired UDP game relay, quit/timeout/vacancy tests | More seeds and terminal-result fault schedules useful for confidence |
 | NET-LOAD | Separate 8/32/64 real sessions, echo RTT/CPU/reliable pending count, cleanup | Internal RIO queues unexposed; no saturation result |
 | GFX-001 | Fixed-scene baseline/instanced, draw calls, CPU/GPU, identical framebuffer | No GPU speedup or general hardware claim |
-| PORTFOLIO | README/architecture, raw logs, local source history, short real-client demo | Separate-PC LAN unavailable; MIT publication approved |
+| PORTFOLIO | README/architecture, raw logs, local source history, short real-client demo | MIT public source + preview ZIP/video verified; separate-PC LAN unavailable |
 
 The local repository is a source/evidence checkpoint. A checked-in log is evidence of that run, not a universal acceptance guarantee. MIT source published at https://github.com/yuchanahn/project-outpost. Separate-PC LAN remains NOT TESTED because the user has no second machine.
+
 
 
 

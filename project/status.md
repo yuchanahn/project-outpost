@@ -13,6 +13,7 @@
 | GFX-001 | Fixed-scene baseline/instanced, draw calls, CPU/GPU, identical framebuffer | No GPU speedup or general hardware claim |
 | PORTFOLIO | README/architecture, raw logs, local source history, short real-client demo | Separate-PC LAN unavailable; MIT publication approved |
 
-The local repository is a source/evidence checkpoint. A checked-in log is evidence of that run, not a universal acceptance guarantee. MIT publication was explicitly approved; repository destination: yuchanahn/project-outpost.
+The local repository is a source/evidence checkpoint. A checked-in log is evidence of that run, not a universal acceptance guarantee. MIT source published at https://github.com/yuchanahn/project-outpost. Separate-PC LAN remains NOT TESTED because the user has no second machine.
+
 
 

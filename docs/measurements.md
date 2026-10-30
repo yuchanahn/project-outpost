@@ -68,3 +68,7 @@ Independent plan critique a9cd842c-f311-4b63-a96b-e086522526ca confirmed the dis
 
 Read-only Claude task f035accd-161a-4ae8-9f18-a8d013ee30de found no concrete crash/measurement-invalidating issue in the inspected render/fault/older stop-and-wait implementation. Review statements were checked against code: the fixed scene has **30** objects (not the report's 29), and the game uses instancing at construction time rather than a runtime user toggle. The later pipelined map/deque echo changes were verified by the actual 8/32/64 window-8 runs, not by treating that older review as coverage. Query recording commands are included in CPU submission timing; query resolution waits are excluded.
 
+
+## Publication
+
+Owner approved MIT publication on 2026-10-30 KST. Public source repository: https://github.com/yuchanahn/project-outpost. Separate-PC LAN is explicitly untested because no second PC is available. A preview release includes a Windows x64 executable ZIP with MIT notice, build/source identification, checksums, and the hardware validation checklist. No internet/NAT or production-safety claim is made.
